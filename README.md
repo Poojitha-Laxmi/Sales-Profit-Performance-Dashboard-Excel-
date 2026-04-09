@@ -5,6 +5,10 @@
 🚀 Project Overview
 
 This project presents an interactive Sales & Profit Performance Dashboard built using Excel. It analyzes business performance across regions, customer segments, and product categories to identify profitability drivers and loss-making areas.
+Also 2nd dashboard  presents an interactive Customer Insights and Sales Performance Dashboard built using Microsoft Excel.
+The dashboard analyzes sales data to uncover key business insights related to customer behavior, profitability, and revenue distribution.
+
+It is designed to support decision-making by identifying high-value customers, loss-making segments, and purchasing patterns.
 
 🎯 Objectives
 Analyze overall sales and profit performance
@@ -12,6 +16,13 @@ Identify high-performing and loss-making product categories
 Compare sales vs profit across regions and segments
 Evaluate the impact of discounts on profitability
 Provide actionable insights for business decision-making
+
+Dashboard 2:
+Analyze customer contribution to overall sales
+Identify top and bottom-performing customers
+Understand customer purchase frequency
+Evaluate the impact of discounts on profitability
+Provide a clear, interactive view of key business metrics
 
 
 
@@ -22,6 +33,11 @@ Provide actionable insights for business decision-making
 🌍 Regional analysis shows mismatch between sales contribution and profitability
 ⚠️ Higher discounts negatively impact profit in certain regions
 
+Dashboard 2 
+A small group of customers contributes significantly to total revenue (Pareto principle)
+Majority of customers are one-time buyers, indicating potential retention issues
+Some customers generate high sales but low or negative profit due to discounts
+Consumer segment drives the highest sales volume
 
 🛠️ Tools & Techniques Used
 Microsoft Excel
@@ -30,6 +46,14 @@ Data Cleaning & Transformation
 KPI Cards & Dashboard Design
 Data Visualization (Bar, Line, Combo Charts)
 Conditional Formatting
+
+Dashobard 2:
+Microsoft Excel
+Pivot Tables & Pivot Charts
+Slicers for interactivity
+Data grouping and segmentation
+Running Total & Cumulative % (Pareto Analysis)
+Conditional formatting
 
 
 📊 Dashboard Features
@@ -64,6 +88,12 @@ Optimize regional strategies to improve profitability
 Add customer-level profitability analysis
 Build Power BI version for advanced interactivity
 Incorporate predictive analysis
+
+Dashboard 2: 
+Future Improvements
+Add cohort analysis for customer retention
+Build predictive sales trends
+Migrate dashboard to Power BI for advanced interactivity
 
 📬 Contact
 Feel free to connect for feedback or collaboration!
