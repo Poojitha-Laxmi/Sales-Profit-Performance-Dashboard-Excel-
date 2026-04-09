@@ -1,4 +1,8 @@
-<img width="1076" height="538" alt="image" src="https://github.com/user-attachments/assets/fc770548-3fa3-4356-aaf9-a7756cf3757b" />🚀 Project Overview
+<img width="1076" height="538" alt="image" src="https://github.com/user-attachments/assets/fc770548-3fa3-4356-aaf9-a7756cf3757b" />
+<img width="940" height="627" alt="image" src="https://github.com/user-attachments/assets/7fddb487-91be-4202-8fe4-4df178ebf336" />
+
+
+🚀 Project Overview
 
 This project presents an interactive Sales & Profit Performance Dashboard built using Excel. It analyzes business performance across regions, customer segments, and product categories to identify profitability drivers and loss-making areas.
 
@@ -40,6 +44,7 @@ Discount vs Profit analysis
 
 
 <img width="1076" height="538" alt="image" src="https://github.com/user-attachments/assets/d6bde944-0256-40a6-b2c1-f1dd605759b6" />
+<img width="940" height="627" alt="image" src="https://github.com/user-attachments/assets/d22ce632-0b82-4de3-8dbe-18c45f65ef56" />
 
 
 🚀 How to Use
